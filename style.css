@@ -2,9 +2,9 @@
 :root{
     --cor-fundo:#B4D6CD;
     --cor-texto:#181C14;
-    --cor-texto:#47A992;
-    --cor-texto:#47A992;
-    --cor-texto:#EAC7C7;
+    --cor-azul:#47A992;
+    --cor-verde:#47A992;
+    --cor-rosa:#EAC7C7;
     --font:"Updock", cursive;
 }
 body{
