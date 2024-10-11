@@ -1,1 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+:root{
+    --cor-texto:#B4D6CD;
+    --cor-texto:#6A9C89;
+    --cor-texto:#47A992;
+    --cor-texto:#47A992;
+    --cor-texto:#EAC7C7;
+    --font:"Updock", cursive;
+}
+body{
+    background-color: var(#B4D6CD);
+    color: var(#6A9C89);
+    font-family: var(--font);
+
+}
