@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
 :root{
-    --cor-texto:#B4D6CD;
-    --cor-texto:#6A9C89;
+    --cor-fundo:#B4D6CD;
+    --cor-texto:#181C14;
     --cor-texto:#47A992;
     --cor-texto:#47A992;
     --cor-texto:#EAC7C7;
@@ -9,7 +9,7 @@
 }
 body{
     background-color: var(#B4D6CD);
-    color: var(#6A9C89);
+    color: var(#181C14);
     font-family: var(--font);
 
 }
