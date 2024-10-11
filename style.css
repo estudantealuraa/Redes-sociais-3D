@@ -8,8 +8,8 @@
     --font:"Updock", cursive;
 }
 body{
-    background-color: var(#B4D6CD);
-    color: var(#181C14);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: var(--font);
 
 }
