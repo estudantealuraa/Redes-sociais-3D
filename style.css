@@ -11,5 +11,13 @@ body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: var(--font);
-
+}
+header{
+    backgroud-color: var(--cor-secundaria);
+    text-align:center;
+}
+h1{
+    font-size: 2rem;
+    color: var(--cor-texto);
+    font-weight: 700;
 }
