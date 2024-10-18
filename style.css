@@ -21,3 +21,14 @@ h1{
     color: var(--cor-texto);
     font-weight: 700;
 }
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+nav a{
+    text-decoration: none;
+    color: var(--cor-texto);
+    margin: 0 2rem 1rem 0;
+    font-size: 1.2rem;
+}
